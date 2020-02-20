@@ -7,7 +7,7 @@ A question is displayed. User taps on the screen to display the answer.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/OkTrGaX.gif" width=200><br>
+<img src="https://imgur.com/LnrudMr.gif" width=200><br> 
 
 ## Required
 - [x] Create New Project in Android Studio

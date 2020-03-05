@@ -22,7 +22,6 @@ A question is displayed. User taps on the screen to display the answer.
    - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
 
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
 ## Lab 2
 
